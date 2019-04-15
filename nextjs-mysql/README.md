@@ -98,6 +98,8 @@ To deploy your own version of this example follow the below steps:
 - Populate your MySQL database with the data found in `profiles.sql` using your preferred method
 - [Deploy](https://zeit.co/docs/v2/deployments/basics/) your application using a single command - `now`
 
+Congratulations, you've just deployed your very own Next.js + MySQL application!
+
 ## Resources
 
 For more information on how you can deploy your own Next.js + MySQL applications, see the following resources:
