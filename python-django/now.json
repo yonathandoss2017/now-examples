@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "public": true,
+  "builds": [
+    { "src": "index.py", "use": "@now/python@canary", "config": { "maxLambdaSize": "15mb" } },
+    { "src": "css/**", "use": "@now/static" }
+  ]
+}
