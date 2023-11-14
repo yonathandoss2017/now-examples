@@ -7,6 +7,6 @@
   "dependencies": {
     "node-fetch": "^2.3.0",
     "vue": "^2.5.17",
-    "vue-server-renderer": "^2.5.17"
+    "vue-server-renderer": "^2.6.11"
   }
 }
