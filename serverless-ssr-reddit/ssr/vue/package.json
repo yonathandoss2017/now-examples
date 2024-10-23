@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.3.0",
-    "vue": "^2.5.17",
+    "vue": "^3.0.0",
     "vue-server-renderer": "^2.5.17"
   }
 }
