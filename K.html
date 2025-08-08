@@ -1,0 +1,25 @@
+<form action="https://vip.cuevana3.one/wp-content/themes/torofilm/helpers/edit-author.php" method="post" enctype="multipart/form-data">
+    <?php wp_nonce_field('update-profile_' . get_current_user_id()); ?>
+    
+    <div>
+        <label>Profile Picture:</label>
+        <input type="file" name="profilepicture" accept="image/jpeg,image/png">
+    </div>
+    
+    <div>
+        <label>Description:</label>
+        <textarea name="edit-user-perfil-description"></textarea>
+    </div>
+    
+    <div>
+        <label>Birth Date:</label>
+        <input type="date" name="edit-user-perfil-nacimiento">
+    </div>
+    
+    <div>
+        <label>Country:</label>
+        <input type="text" name="edit-user-perfil-pais">
+    </div>
+    
+    <button type="submit">Save Profile</button>
+</form>
