@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "cookie-session": "^2.0.0-beta.3",
+    "cookie-session": "^2.1.1",
     "deepai": "^1.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
