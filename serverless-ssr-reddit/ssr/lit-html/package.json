@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "@popeindustries/lit-html-server": "^0.13.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.11"
   }
 }
