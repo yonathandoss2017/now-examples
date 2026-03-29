@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@popeindustries/lit-html-server": "^0.13.0",
+    "@popeindustries/lit-html-server": "^0.14.4",
     "node-fetch": "^2.3.0"
   }
 }
